@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism
+END
+igraph.pc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/igraph.pc
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/aclocal.m4
+END
+ylwrap
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/ylwrap
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/install-sh
+END
+igraph_Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/igraph_Info.plist
+END
+igraph.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/igraph.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/Makefile.in
+END
+igraph_Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/igraph_Info.plist.in
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.log
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/ChangeLog
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.status
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.guess
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/stamp-h1
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/config.h.in
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/libtool
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/missing
+END

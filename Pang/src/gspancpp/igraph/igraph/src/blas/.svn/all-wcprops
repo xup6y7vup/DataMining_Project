@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dscal.c
+END
+drot.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/drot.c
+END
+dasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dasum.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/ddot.c
+END
+dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dcopy.c
+END
+dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dswap.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/lsame.c
+END
+dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dger.c
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dnrm2.c
+END
+dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dgemv.c
+END
+idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/idamax.c
+END
+dtrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/dtrmm.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/blas/daxpy.c
+END

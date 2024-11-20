@@ -1,0 +1,5 @@
+libigraph_la-s_cmp.lo: f2c/s_cmp.c f2c.h ../config.h
+
+f2c.h:
+
+../config.h:

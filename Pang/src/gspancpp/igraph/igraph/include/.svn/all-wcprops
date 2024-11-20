@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/matrix.h
+END
+igraph_pmt_off.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/igraph_pmt_off.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/types.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/stack.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/attributes.h
+END
+dqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/dqueue.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/error.h
+END
+igraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/igraph.h
+END
+igraph_pmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/igraph_pmt.h
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/interrupt.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/heap.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/array.h
+END
+arpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/arpack.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/include/vector.h
+END

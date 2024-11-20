@@ -1,0 +1,1175 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple
+END
+igraph_i_cutheap.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_i_cutheap.out
+END
+igraph_complementer.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_complementer.c
+END
+LINKS.NET
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/LINKS.NET
+END
+igraph_hashtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_hashtable.c
+END
+igraph_strvector.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_strvector.c
+END
+igraph_edge_betweenness.out
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_edge_betweenness.out
+END
+igraph_cocitation.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_cocitation.c
+END
+igraph_add_vertices.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_add_vertices.c
+END
+dot.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/dot.c
+END
+dqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/dqueue.c
+END
+igraph_cliques.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_cliques.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/vector.c
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/matrix.c
+END
+igraph_minimum_spanning_tree.out
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_minimum_spanning_tree.out
+END
+flow.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/flow.c
+END
+igraph_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_array.c
+END
+igraph_neighbors.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_neighbors.c
+END
+igraph_read_graph_graphdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_graphdb.c
+END
+igraph_mincut.out
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_mincut.out
+END
+igraph_is_multiple.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_is_multiple.c
+END
+igraph_get_shortest_paths_dijkstra.out
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_shortest_paths_dijkstra.out
+END
+igraph_difference.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_difference.c
+END
+igraph_read_graph_lgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_lgl.c
+END
+igraph_cliques.out
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_cliques.out
+END
+igraph_i_layout_sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_i_layout_sphere.c
+END
+igraph_reciprocity.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_reciprocity.c
+END
+igraph_simplify.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_simplify.c
+END
+vector_ptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/vector_ptr.c
+END
+igraph_es_fromto.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_fromto.c
+END
+igraph_empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_empty.c
+END
+igraph_bfs.out
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_bfs.out
+END
+igraph_community_edge_betweenness.out
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_edge_betweenness.out
+END
+igraph_growing_random_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_growing_random_game.c
+END
+igraph_es_pairs.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_pairs.c
+END
+topology.out
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/topology.out
+END
+igraph_motifs_randesu.out
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_motifs_randesu.out
+END
+igraph_transitivity.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_transitivity.c
+END
+igraph_convex_hull.out
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_convex_hull.out
+END
+igraph_pagerank.out
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_pagerank.out
+END
+graphml-hsa05010.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/graphml-hsa05010.xml
+END
+igraph_is_directed.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_is_directed.c
+END
+walktrap.out
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/walktrap.out
+END
+igraph_disjoint_union.out
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_disjoint_union.out
+END
+igraph_vs_nonadj.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_nonadj.c
+END
+igraph_es_fromto.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_fromto.out
+END
+igraph_layout_reingold_tilford.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_layout_reingold_tilford.c
+END
+igraph_local_transitivity.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_local_transitivity.c
+END
+igraph_add_edges.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_add_edges.out
+END
+igraph_lattice.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_lattice.c
+END
+igraph_similarity.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_similarity.c
+END
+igraph_average_path_length.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_average_path_length.c
+END
+ak-4102.max
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/ak-4102.max
+END
+vector2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/vector2.c
+END
+igraph_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_set.c
+END
+igraph_independent_sets.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_independent_sets.c
+END
+igraph_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_tree.c
+END
+cattributes.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/cattributes.c
+END
+igraph_decompose.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_decompose.out
+END
+eigenvector_centrality.out
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/eigenvector_centrality.out
+END
+igraph_get_shortest_paths_dijkstra.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_shortest_paths_dijkstra.c
+END
+igraph_vs_nonadj.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_nonadj.out
+END
+igraph_preference_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_preference_game.c
+END
+igraph_convergence_degree.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_convergence_degree.c
+END
+igraph_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_copy.c
+END
+igraph_degree_sequence_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_degree_sequence_game.c
+END
+iso_b03_m1000.A00
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/iso_b03_m1000.A00
+END
+igraph_complementer.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_complementer.out
+END
+cattributes2.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/cattributes2.c
+END
+matrix2.out
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/matrix2.out
+END
+igraph_read_graph_lgl-1.lgl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_lgl-1.lgl
+END
+igraph_get_eid.out
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_eid.out
+END
+pajek1.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/pajek1.net
+END
+igraph_write_graph_pajek.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_write_graph_pajek.c
+END
+igraph_read_graph_lgl-3.lgl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_lgl-3.lgl
+END
+pajek3.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/pajek3.net
+END
+igraph_pagerank.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_pagerank.c
+END
+igraph_trie.out
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_trie.out
+END
+igraph_is_loop.out
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_is_loop.out
+END
+igraph_diameter.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_diameter.c
+END
+igraph_convergence_degree.out
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_convergence_degree.out
+END
+igraph_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_ring.c
+END
+matrix.out
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/matrix.out
+END
+igraph_community_fastgreedy.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_fastgreedy.c
+END
+igraph_full.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_full.c
+END
+igraph_array.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_array.out
+END
+igraph_lcf.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_lcf.c
+END
+lineendings.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/lineendings.c
+END
+igraph_intersection.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_intersection.c
+END
+cattributes2.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/cattributes2.out
+END
+igraph_layout_reingold_tilford.in
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_layout_reingold_tilford.in
+END
+igraph_star.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_star.c
+END
+igraph_write_graph_lgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_write_graph_lgl.c
+END
+igraph_write_graph_pajek.out
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_write_graph_pajek.out
+END
+igraph_is_multiple.out
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_is_multiple.out
+END
+igraph_union.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_union.out
+END
+igraph_difference.out
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_difference.out
+END
+igraph_read_graph_lgl.out
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_lgl.out
+END
+igraph_degree.out
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_degree.out
+END
+dijkstra.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/dijkstra.c
+END
+igraph_topological_sorting.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_topological_sorting.c
+END
+d_indheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/d_indheap.c
+END
+foreign.out
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/foreign.out
+END
+igraph_community_fastgreedy.out
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_fastgreedy.out
+END
+igraph_minimum_spanning_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_minimum_spanning_tree.c
+END
+bellman_ford.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/bellman_ford.c
+END
+lineendings.out
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/lineendings.out
+END
+matrix2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/matrix2.c
+END
+test.gxl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/test.gxl
+END
+igraph_mincut.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_mincut.c
+END
+igraph_get_eid.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_eid.c
+END
+igraph_is_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_is_loop.c
+END
+igraph_topological_sorting.out
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_topological_sorting.out
+END
+d_indheap.out
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/d_indheap.out
+END
+dijkstra.out
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/dijkstra.out
+END
+igraph_delete_edges.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_delete_edges.c
+END
+igraph_vs_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_vector.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/stack.c
+END
+igraph_similarity.out
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_similarity.out
+END
+spmatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/spmatrix.c
+END
+igraph_to_undirected.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_to_undirected.out
+END
+indheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/indheap.c
+END
+vector2.out
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/vector2.out
+END
+igraph_hashtable.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_hashtable.out
+END
+igraph_strvector.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_strvector.out
+END
+igraph_es_adj.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_adj.c
+END
+igraph_vs_seq.out
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_seq.out
+END
+igraph_union.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_union.c
+END
+igraph_atlas.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_atlas.out
+END
+igraph_disjoint_union.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_disjoint_union.c
+END
+walktrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/walktrap.c
+END
+igraph_layout_merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_layout_merge.c
+END
+igraph_rewire.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_rewire.c
+END
+igraph_small.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_small.out
+END
+igraph_add_edges.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_add_edges.c
+END
+adjlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/adjlist.c
+END
+igraph_weighted_adjacency.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_weighted_adjacency.c
+END
+spmatrix.out
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/spmatrix.out
+END
+igraph_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_create.c
+END
+igraph_psumtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_psumtree.c
+END
+igraph_delete_vertices.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_delete_vertices.c
+END
+igraph_edge_betweenness.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_edge_betweenness.c
+END
+igraph_read_graph_graphdb.out
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_graphdb.out
+END
+igraph_es_adj.out
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_adj.out
+END
+igraph_layout_lgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_layout_lgl.c
+END
+igraph_erdos_renyi_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_erdos_renyi_game.c
+END
+igraph_diameter.out
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_diameter.out
+END
+igraph_rewire.out
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_rewire.out
+END
+heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/heap.c
+END
+graphml.out
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/graphml.out
+END
+gml.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/gml.c
+END
+igraph_weighted_adjacency.out
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_weighted_adjacency.out
+END
+igraph_to_undirected.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_to_undirected.c
+END
+igraph_intersection.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_intersection.out
+END
+igraph_barabasi_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_barabasi_game.c
+END
+igraph_vs_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_seq.c
+END
+igraph_community_leading_eigenvector.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_leading_eigenvector.c
+END
+igraph_trie.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_trie.c
+END
+igraph_atlas.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_atlas.c
+END
+igraph_compose.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_compose.c
+END
+igraph_small.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_small.c
+END
+igraph_get_shortest_paths.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_shortest_paths.c
+END
+spinglass.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/spinglass.c
+END
+igraph_bfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_bfs.c
+END
+igraph_community_edge_betweenness.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_edge_betweenness.c
+END
+karate.gml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/karate.gml
+END
+gml.out
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/gml.out
+END
+igraph_girth.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_girth.c
+END
+bellman_ford.out
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/bellman_ford.out
+END
+igraph_independent_sets.out
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_independent_sets.out
+END
+igraph_set.out
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_set.out
+END
+igraph_cocitation.out
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_cocitation.out
+END
+igraph_adjacency.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_adjacency.c
+END
+dot.out
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/dot.out
+END
+topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/topology.c
+END
+igraph_motifs_randesu.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_motifs_randesu.c
+END
+igraph_es_path.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_es_path.c
+END
+cattributes.out
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/cattributes.out
+END
+igraph_read_graph_lgl-2.lgl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_read_graph_lgl-2.lgl
+END
+pajek2.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/pajek2.net
+END
+igraph_convex_hull.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_convex_hull.c
+END
+igraph_community_leading_eigenvector.out
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_community_leading_eigenvector.out
+END
+pajek4.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/pajek4.net
+END
+igraph_compose.out
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_compose.out
+END
+igraph_degree.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_degree.c
+END
+vector.out
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/vector.out
+END
+igraph_get_shortest_paths.out
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_get_shortest_paths.out
+END
+foreign.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/foreign.c
+END
+igraph_vs_vector.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_vs_vector.out
+END
+graphml.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/graphml.c
+END
+igraph_i_cutheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_i_cutheap.c
+END
+igraph_neighbors.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_neighbors.out
+END
+igraph_grg_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_grg_game.c
+END
+igraph_decompose.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_decompose.c
+END
+eigenvector_centrality.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/eigenvector_centrality.c
+END
+igraph_simplify.out
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/examples/simple/igraph_simplify.out
+END

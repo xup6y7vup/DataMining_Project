@@ -1,0 +1,2 @@
+run -s ../analysis/test_yeast_inactive/25232_15028 -m 800 < ../../dataset/GraphData/Yeast/inactive/output.txt -v -p
+

@@ -1,0 +1,8 @@
+libigraph_la-pow_di.lo: f2c/pow_di.c /usr/include/stdc-predef.h f2c.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+f2c.h:
+
+../config.h:

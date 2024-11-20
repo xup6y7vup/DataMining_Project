@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests
+END
+components.at
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/components.at
+END
+conversion.at
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/conversion.at
+END
+testsuite
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/testsuite
+END
+attributes.at
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/attributes.at
+END
+eigen.at
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/eigen.at
+END
+atconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/atconfig
+END
+structure_generators.at
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/structure_generators.at
+END
+testsuite.at
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/testsuite.at
+END
+foreign.at
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/foreign.at
+END
+motifs.at
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/motifs.at
+END
+arpack.at
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/arpack.at
+END
+types.at
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/types.at
+END
+cliques.at
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/cliques.at
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/Makefile.am
+END
+flow.at
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/flow.at
+END
+package.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/package.m4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/Makefile
+END
+atlocal
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/atlocal
+END
+iterators.at
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/iterators.at
+END
+topology.at
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/topology.at
+END
+layout.at
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/layout.at
+END
+operators.at
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/operators.at
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/Makefile.in
+END
+other.at
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/other.at
+END
+atlocal.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/atlocal.in
+END
+basic.at
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/basic.at
+END
+visitors.at
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/visitors.at
+END
+community.at
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/community.at
+END
+structural_properties.at
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/tests/structural_properties.at
+END

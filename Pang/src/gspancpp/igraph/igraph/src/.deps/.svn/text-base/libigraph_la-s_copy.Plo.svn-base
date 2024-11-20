@@ -1,0 +1,5 @@
+libigraph_la-s_copy.lo: f2c/s_copy.c f2c.h ../config.h
+
+f2c.h:
+
+../config.h:

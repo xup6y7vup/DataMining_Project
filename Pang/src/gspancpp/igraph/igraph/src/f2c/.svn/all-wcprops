@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c
+END
+s_cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/s_cmp.c
+END
+pow_di.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/pow_di.c
+END
+etime_.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/etime_.c
+END
+d_sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/d_sign.c
+END
+d_lg10.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/d_lg10.c
+END
+i_dnnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/i_dnnt.c
+END
+s_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/s_copy.c
+END
+pow_dd.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/f2c/pow_dd.c
+END

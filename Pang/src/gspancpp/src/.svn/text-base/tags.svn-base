@@ -1,0 +1,219 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BASE_SUBS_GRAPH	gspan.h	/^    Graph BASE_SUBS_GRAPH;           \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+BASE_SUBS_GRAPH_ID	gspan.h	/^    unsigned int BASE_SUBS_GRAPH_ID; \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+BIN	Makefile	/^BIN = ..\/bin\/$/;"	m
+CPP	Makefile	/^CPP = g++$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = -DNDEBUG -O3 -g -ggdb -Wall -Wno-deprecated$/;"	m
+Correspondence	gspan.h	/^struct Correspondence {$/;"	s	namespace:GSPAN
+DFS	gspan.h	/^    DFS(): from(0), to(0), fromlabel(0), elabel(0), tolabel(0), cover_subs_num(0) {};$/;"	f	class:GSPAN::DFS
+DFS	gspan.h	/^class DFS {$/;"	c	namespace:GSPAN
+DFSCode	gspan.h	/^struct DFSCode: public std::vector <DFS> {$/;"	s	namespace:GSPAN
+DFSCodeTree	gspan.h	/^    DFSCodeTree(): isPattern(false) {};$/;"	f	struct:GSPAN::DFSCodeTree
+DFSCodeTree	gspan.h	/^struct DFSCodeTree$/;"	s	namespace:GSPAN
+DFS_CODE	gspan.h	/^    DFSCode                     DFS_CODE; \/\/ the currently examined DFS code$/;"	m	class:GSPAN::gSpan
+Edge	gspan.h	/^    Edge(): from(0), to(0), elabel(0), id(0) {};$/;"	f	struct:GSPAN::Edge
+Edge	gspan.h	/^struct Edge {$/;"	s	namespace:GSPAN
+EdgeList	gspan.h	/^typedef std::vector <Edge*> EdgeList;$/;"	t	namespace:GSPAN
+FREQ_PATTERNS	gspan.h	/^    igraph_map2 FREQ_PATTERNS; \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+GSPAN	dfs.cpp	/^namespace GSPAN {$/;"	n	file:
+GSPAN	graph.cpp	/^namespace GSPAN {$/;"	n	file:
+GSPAN	gspan.cpp	/^namespace GSPAN {$/;"	n	file:
+GSPAN	gspan.h	/^namespace GSPAN {$/;"	n
+GSPAN	misc.cpp	/^namespace GSPAN {$/;"	n	file:
+GSPANDT_H	gspan.h	2;"	d
+Graph	gspan.h	/^    Graph (bool _directed)$/;"	f	class:GSPAN::Graph
+Graph	gspan.h	/^    Graph(): edge_size_(0), directed(false) {};$/;"	f	class:GSPAN::Graph
+Graph	gspan.h	/^    Graph(const Graph & graph) {$/;"	f	class:GSPAN::Graph
+Graph	gspan.h	/^class Graph: public std::vector<Vertex> {$/;"	c	namespace:GSPAN
+History	gspan.h	/^    History (Graph& g, PDFS *p) {$/;"	f	class:GSPAN::History
+History	gspan.h	/^    History() {};$/;"	f	class:GSPAN::History
+History	gspan.h	/^class History: public std::vector<Edge*>$/;"	c	namespace:GSPAN
+ID	gspan.h	/^    unsigned int ID;  \/\/ the currently mined subgraph's id$/;"	m	class:GSPAN::gSpan
+IGRAPHINCLUDE	Makefile	/^IGRAPHINCLUDE = -I\/usr\/local\/include\/igraph # lei subs$/;"	m
+IGRAPHLIB	Makefile	/^IGRAPHLIB = -L\/usr\/local\/lib -ligraph # lei subs$/;"	m
+IGraph	gspan.h	/^typedef struct igraphGraph IGraph;$/;"	t	namespace:GSPAN	typeref:struct:GSPAN::igraphGraph
+OBJ	Makefile	/^OBJ = ${BIN}graph.o ${BIN}misc.o ${BIN}dfs.o ${BIN}gspan.o # lei subs$/;"	m
+PDFS	gspan.h	/^    PDFS(): id(0), edge(0), prev(0) {};$/;"	f	struct:GSPAN::PDFS
+PDFS	gspan.h	/^struct PDFS {$/;"	s	namespace:GSPAN
+Projected	gspan.h	/^class Projected: public std::vector<PDFS> {$/;"	c	namespace:GSPAN
+Projected_iterator1	gspan.h	/^typedef std::map<int, Projected>::iterator                                   Projected_iterator1;$/;"	t	namespace:GSPAN
+Projected_iterator2	gspan.h	/^typedef std::map<int, std::map <int, Projected> >::iterator                  Projected_iterator2;$/;"	t	namespace:GSPAN
+Projected_iterator3	gspan.h	/^typedef std::map<int, std::map <int, std::map <int, Projected> > >::iterator Projected_iterator3;$/;"	t	namespace:GSPAN
+Projected_map1	gspan.h	/^typedef std::map<int, Projected>                                             Projected_map1;$/;"	t	namespace:GSPAN
+Projected_map2	gspan.h	/^typedef std::map<int, std::map <int, Projected> >                            Projected_map2;$/;"	t	namespace:GSPAN
+Projected_map3	gspan.h	/^typedef std::map<int, std::map <int, std::map <int, Projected> > >           Projected_map3; \/\/ from (vlab) -> via (elab) -> to (vlab)$/;"	t	namespace:GSPAN
+Projected_riterator3	gspan.h	/^typedef std::map<int, std::map <int, std::map <int, Projected> > >::reverse_iterator Projected_riterator3;$/;"	t	namespace:GSPAN
+RMPath	gspan.h	/^typedef std::vector<int> RMPath;$/;"	t	namespace:GSPAN
+SUBS_APPEARANCE	gspan.h	/^    Projected SUBS_APPEARANCE;        \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+SUBS_IGRAPH_SET	gspan.h	/^    std::map <unsigned int, IGraph > SUBS_IGRAPH_SET; \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+SUBS_MINDFS	gspan.h	/^    DFSCode SUBS_MINDFS;        \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+SUBS_SET	gspan.h	/^    std::vector <Graph> SUBS_SET; \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+TRANS	gspan.h	/^    std::vector < Graph >       TRANS; \/\/ the graph dataset$/;"	m	class:GSPAN::gSpan
+Vertex	gspan.h	/^    Vertex() {$/;"	f	class:GSPAN::Vertex
+Vertex	gspan.h	/^    Vertex(const Vertex & v) {$/;"	f	class:GSPAN::Vertex
+Vertex	gspan.h	/^class Vertex$/;"	c	namespace:GSPAN
+_swap	gspan.h	/^template <class T> inline void _swap (T &x, T &y) {$/;"	f	namespace:GSPAN
+ask_all_subs	gspan.cpp	/^Projected gSpan::ask_all_subs(Projected projected)$/;"	f	class:GSPAN::gSpan
+assign_class_labels	gspan.cpp	/^std::vector<unsigned int> gSpan::assign_class_labels(std::string class_label_file, std::set<unsigned int> const * graphFilter) {$/;"	f	class:GSPAN::gSpan
+build	misc.cpp	/^void History::build (Graph &graph, PDFS *e)$/;"	f	class:GSPAN::History
+buildEdge	graph.cpp	/^void Graph::buildEdge ()$/;"	f	class:GSPAN::Graph
+buildRMPath	misc.cpp	/^const RMPath &DFSCode::buildRMPath ()$/;"	f	class:GSPAN::DFSCode
+buildSubsInfo	misc.cpp	/^void History::buildSubsInfo()$/;"	f	class:GSPAN::History
+check	graph.cpp	/^void Graph::check (void)$/;"	f	class:GSPAN::Graph
+children	gspan.h	/^    std::map<DFS, DFSCodeTree *> children;$/;"	m	struct:GSPAN::DFSCodeTree
+class_labels	gspan.h	/^    std::vector<unsigned int> class_labels;$/;"	m	class:GSPAN::gSpan
+const_edge_iterator	gspan.h	/^    typedef std::vector<Edge>::const_iterator const_edge_iterator;$/;"	t	class:GSPAN::Vertex
+const_vertex_iterator	gspan.h	/^    typedef std::vector<Vertex>::const_iterator const_vertex_iterator;$/;"	t	class:GSPAN::Graph
+copyGraph	gspan.h	/^    Graph* copyGraph() const {$/;"	f	class:GSPAN::Graph
+correspondence_classes	gspan.h	/^    std::vector<Correspondence> correspondence_classes;$/;"	m	class:GSPAN::gSpan
+correspondences	gspan.h	/^    unsigned int correspondences; \/\/ for the current set of selected subgraphs$/;"	m	class:GSPAN::gSpan
+counts	gspan.h	/^    std::vector<unsigned int> counts; \/\/ # matching instances for each class (C_x)$/;"	m	struct:GSPAN::Correspondence
+cover_all_subs	dfs.cpp	/^bool DFSCode::cover_all_subs(std::map< unsigned int, IGraph > &subs_set)$/;"	f	class:GSPAN::DFSCode
+cover_subs_num	gspan.h	/^    unsigned int cover_subs_num;$/;"	m	class:GSPAN::DFS
+curDFS	gspan.h	/^    DFS curDFS;$/;"	m	struct:GSPAN::DFSCodeTree
+current_best_subgraph	gspan.h	/^    DFSCode current_best_subgraph;$/;"	m	class:GSPAN::gSpan
+current_best_support_counts	gspan.h	/^    std::map<unsigned int, unsigned int> current_best_support_counts;$/;"	m	class:GSPAN::gSpan
+delete_resolved	gspan.h	/^    bool delete_resolved; \/\/ delete graphs (and their corresponding vectors) if they are no longer part of a correspondence$/;"	m	class:GSPAN::gSpan
+directed	gspan.h	/^    bool directed;  \/\/ use directed edges?$/;"	m	class:GSPAN::gSpan
+directed	gspan.h	/^    bool directed;$/;"	m	class:GSPAN::Graph
+do_le	gspan.h	/^    bool do_le; \/\/ accept new subgraphs even if they do not improve CORK$/;"	m	class:GSPAN::gSpan
+edge	gspan.h	/^    Edge        *edge;$/;"	m	struct:GSPAN::PDFS
+edge	gspan.h	/^    std::vector<Edge> edge;$/;"	m	class:GSPAN::Vertex
+edge	gspan.h	/^    std::vector<int> edge;$/;"	m	class:GSPAN::History
+edgeCount	dfs.cpp	/^unsigned int DFSCode::edgeCount (void) const {$/;"	f	class:GSPAN::DFSCode
+edge_iterator	gspan.h	/^    typedef std::vector<Edge>::iterator edge_iterator;$/;"	t	class:GSPAN::Vertex
+edge_labels	gspan.h	/^    igraph_vector_long_t edge_labels;$/;"	m	struct:GSPAN::igraphGraph
+edge_size	gspan.h	/^    unsigned int edge_size ()  const {$/;"	f	class:GSPAN::Graph
+edge_size_	gspan.h	/^    unsigned int edge_size_;$/;"	m	class:GSPAN::Graph
+elabel	gspan.h	/^    int elabel;$/;"	m	class:GSPAN::DFS
+elabel	gspan.h	/^    int elabel;$/;"	m	struct:GSPAN::Edge
+enc	gspan.h	/^    bool enc;  \/\/ encode output graphs as DFS codes?$/;"	m	class:GSPAN::gSpan
+equ_classes	gspan.h	/^    std::vector<unsigned int> equ_classes; \/\/ equivalence classes$/;"	m	class:GSPAN::gSpan
+ext	gspan.h	/^    std::vector<unsigned int> ext; \/\/ matching extension (for a super-pattern) instances for each class (C_x_1)$/;"	m	struct:GSPAN::Correspondence
+extendCORK	gspan.cpp	/^void gSpan::extendCORK() {$/;"	f	class:GSPAN::gSpan
+father	gspan.h	/^    int father; \/\/ fathering correspondence id$/;"	m	struct:GSPAN::Correspondence
+filter_dup_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+filter_subs_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+filter_sup_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+frequent_subgraphs	gspan.h	/^    unsigned int frequent_subgraphs; \/\/ counts the number of tested frequent subgraphs in one iteration of CORK$/;"	m	class:GSPAN::gSpan
+from	gspan.h	/^    int from;$/;"	m	class:GSPAN::DFS
+from	gspan.h	/^    int from;$/;"	m	struct:GSPAN::Edge
+fromCompressedDFSCode	dfs.cpp	/^void DFSCode::fromCompressedDFSCode(std::vector<int> & compressed) {$/;"	f	class:GSPAN::DFSCode
+fromGraph	dfs.cpp	/^DFSCode::fromGraph (Graph &g)$/;"	f	class:GSPAN::DFSCode
+fromlabel	gspan.h	/^    int fromlabel;$/;"	m	class:GSPAN::DFS
+fs	gspan.h	/^    bool fs; \/\/ perform CORK-filtering?$/;"	m	class:GSPAN::gSpan
+fs_option	gspan.h	/^    std::string fs_option;$/;"	m	class:GSPAN::gSpan
+gSpan	gspan.cpp	/^gSpan::gSpan (void) {$/;"	f	class:GSPAN::gSpan
+gSpan	gspan.h	/^class gSpan {$/;"	c	namespace:GSPAN
+gSpanCORK_executable	gSpanCORK.cpp	/^std::string gSpanCORK_executable;$/;"	v
+getAskCORK	gspan.cpp	/^bool gSpan::getAskCORK(Projected const * projected,$/;"	f	class:GSPAN::gSpan
+getCompressedDFSCode	dfs.cpp	/^std::vector<int> DFSCode::getCompressedDFSCode() const {$/;"	f	class:GSPAN::DFSCode
+getPartialImprovment	gspan.cpp	/^unsigned int getPartialImprovment(const Correspondence * cor) {$/;"	f	namespace:GSPAN
+get_BASE_SUBS_MINDFS	gspan.cpp	/^void gSpan::get_BASE_SUBS_MINDFS(void)$/;"	f	class:GSPAN::gSpan
+get_IGraph	dfs.cpp	/^IGraph DFSCode::get_IGraph()$/;"	f	class:GSPAN::DFSCode
+get_IGraph	graph.cpp	/^IGraph Graph::get_IGraph()$/;"	f	class:GSPAN::Graph
+get_backward	misc.cpp	/^Edge *get_backward (Graph &graph, Edge* e1, Edge* e2, History& history)$/;"	f	namespace:GSPAN
+get_backward_root_subs	misc.cpp	/^bool get_backward_root_subs (Graph &g, Vertex &v, EdgeList &result, History history)$/;"	f	namespace:GSPAN
+get_backward_subs	misc.cpp	/^bool get_backward_subs (Graph &graph, Edge* e, unsigned int subsNodeCount, History& history, EdgeList &result)$/;"	f	namespace:GSPAN
+get_forward_pure	misc.cpp	/^bool get_forward_pure (Graph &graph, Edge *e, int minlabel, History& history, EdgeList &result)$/;"	f	namespace:GSPAN
+get_forward_rmpath	misc.cpp	/^bool get_forward_rmpath (Graph &graph, Edge *e, int minlabel, History& history, EdgeList &result)$/;"	f	namespace:GSPAN
+get_forward_root	misc.cpp	/^bool get_forward_root (Graph &g, Vertex &v, EdgeList &result)$/;"	f	namespace:GSPAN
+get_forward_root_subs	misc.cpp	/^bool get_forward_root_subs (Graph &g, Vertex &v, EdgeList &result, History history)$/;"	f	namespace:GSPAN
+get_forward_subs	misc.cpp	/^bool get_forward_subs (Graph &graph, Edge *e, unsigned int subsNodeCount, History& history, EdgeList &result)$/;"	f	namespace:GSPAN
+get_min_DFS	dfs.cpp	/^DFSCode DFSCode::get_min_DFS()$/;"	f	class:GSPAN::DFSCode
+get_vertex	gspan.h	/^    unsigned int get_vertex(int rank)$/;"	f	class:GSPAN::History
+get_vertex_rank	gspan.h	/^    unsigned int get_vertex_rank(int id)$/;"	f	class:GSPAN::History
+graph	gspan.h	/^    igraph_t graph;$/;"	m	struct:GSPAN::igraphGraph
+grow_edge_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+hasEdge	gspan.h	/^    bool hasEdge   (unsigned int id) {$/;"	f	class:GSPAN::History
+hasVertex	gspan.h	/^    bool hasVertex (unsigned int id) {$/;"	f	class:GSPAN::History
+id	gspan.h	/^    unsigned int id;	\/\/ ID of the original input graph$/;"	m	struct:GSPAN::PDFS
+id	gspan.h	/^    unsigned int id;$/;"	m	struct:GSPAN::Edge
+igraphGraph	gspan.h	/^struct igraphGraph { \/\/ lei subs$/;"	s	namespace:GSPAN
+igraph_map2	gspan.h	/^typedef std::map <unsigned int, std::map <unsigned int, std::vector <IGraph> > > igraph_map2; \/\/ lei subs$/;"	t	namespace:GSPAN
+infoStream	gspan.h	/^    std::ostream* infoStream;  \/\/ info stream for statistical output$/;"	m	class:GSPAN::gSpan
+insert	dfs.cpp	/^bool DFSCodeTree::insert(DFSCode dfscode)$/;"	f	class:GSPAN::DFSCodeTree
+insert_pattern	gspan.cpp	/^bool gSpan::insert_pattern(IGraph graph)$/;"	f	class:GSPAN::gSpan
+instances2classLabels	gspan.h	/^    std::map<unsigned int,unsigned int> instances2classLabels;$/;"	m	class:GSPAN::gSpan
+isPattern	gspan.h	/^    bool isPattern;$/;"	m	struct:GSPAN::DFSCodeTree
+is_min	dfs.cpp	/^bool DFSCode::is_min ()$/;"	f	class:GSPAN::DFSCode
+label	gspan.h	/^    int label;$/;"	m	class:GSPAN::Vertex
+lastFwdEdge	gspan.h	/^    Edge * lastFwdEdge; \/\/ lei subs$/;"	m	class:GSPAN::History
+main	gSpanCORK.cpp	/^int main (int argc, char **argv) {$/;"	f
+maxpat_max	gspan.h	/^    unsigned int maxpat_max;	\/\/ upper bound on node count$/;"	m	class:GSPAN::gSpan
+maxpat_min	gspan.h	/^    unsigned int maxpat_min;	\/\/ lower bound on node count$/;"	m	class:GSPAN::gSpan
+minDFSTree	gspan.h	/^    DFSCodeTree minDFSTree;         \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+minimal_subgraphs	gspan.h	/^    unsigned int minimal_subgraphs; \/\/ counts the number of tested minimal subgraphs in one iteration of CORK$/;"	m	class:GSPAN::gSpan
+mining_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+minsup	gspan.h	/^    unsigned int minsup;  \/\/ the minimum frequency bound$/;"	m	class:GSPAN::gSpan
+nodeCount	dfs.cpp	/^DFSCode::nodeCount (void) const$/;"	f	class:GSPAN::DFSCode
+nodeCount	gspan.h	/^    unsigned int nodeCount()$/;"	f	class:GSPAN::History
+number_of_classes	gspan.h	/^    unsigned int number_of_classes;$/;"	m	class:GSPAN::gSpan
+oneAgainstRestCorresondences	gspan.cpp	/^unsigned int oneAgainstRestCorresondences(std::vector<unsigned int> const & classes) {$/;"	f	namespace:GSPAN
+operator !=	gspan.h	/^    friend bool operator != (const DFS &d1, const DFS &d2) {$/;"	f	class:GSPAN::DFS
+operator <	gspan.h	/^    friend bool operator < (const DFS &d1, const DFS &d2)$/;"	f	class:GSPAN::DFS
+operator =	gspan.h	/^    Graph& operator=(const Graph & graph) {$/;"	f	class:GSPAN::Graph
+operator =	gspan.h	/^    Vertex& operator=(const Vertex & v) {$/;"	f	class:GSPAN::Vertex
+operator ==	gspan.h	/^    friend bool operator == (const DFS &d1, const DFS &d2)$/;"	f	class:GSPAN::DFS
+originalInstanceLabels	gspan.h	/^    std::vector<unsigned int> originalInstanceLabels; \/\/ initialized if a graph file has not been read as a whole, but filtered$/;"	m	class:GSPAN::gSpan
+originalInstanceRanks	gspan.h	/^    std::vector<unsigned int> originalInstanceRanks;$/;"	m	class:GSPAN::gSpan
+os	gspan.h	/^    std::ostream* os;  \/\/ output stream$/;"	m	class:GSPAN::gSpan
+pattern_num	gspan.h	/^    unsigned int pattern_num; \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+pop	gspan.h	/^    void pop () {$/;"	f	struct:GSPAN::DFSCode
+possible_changes	gspan.h	/^    std::vector<bool> possible_changes; \/\/ equ_classes may be split for these graphs (= subgraph(s) found)$/;"	m	class:GSPAN::gSpan
+prev	gspan.h	/^    PDFS        *prev;$/;"	m	struct:GSPAN::PDFS
+project	gspan.cpp	/^void gSpan::project (Projected &projected) {$/;"	f	class:GSPAN::gSpan
+project_SUBS_MINDFS	gspan.cpp	/^bool gSpan::project_SUBS_MINDFS (Projected &subs_projected, Projected &dataset_projected)$/;"	f	class:GSPAN::gSpan
+project_is_min	dfs.cpp	/^bool DFSCode::project_is_min (Projected &projected, Graph &g, DFSCode &DFSCodeIsMin)$/;"	f	class:GSPAN::DFSCode
+project_min_DFS	dfs.cpp	/^bool DFSCode::project_min_DFS(Projected &projected, Graph &g, DFSCode &minDFSCode)$/;"	f	class:GSPAN::DFSCode
+project_subs	gspan.cpp	/^void gSpan::project_subs(Projected &projected)$/;"	f	class:GSPAN::gSpan
+project_subs_get_root	gspan.cpp	/^void gSpan::project_subs_get_root(Projected &projected)$/;"	f	class:GSPAN::gSpan
+prunedFS_subgraphs	gspan.h	/^    unsigned int prunedFS_subgraphs; \/\/ counts the number of subgraphs pruned by CORK in one iteration of CORK$/;"	m	class:GSPAN::gSpan
+push	gspan.h	/^    void push (int from, int to, int elabel)$/;"	f	class:GSPAN::Vertex
+push	gspan.h	/^    void push (int from, int to, int fromlabel, int elabel, int tolabel)$/;"	f	struct:GSPAN::DFSCode
+push	gspan.h	/^    void push (int id, Edge *edge, PDFS *prev) \/\/ graph id, edge ref, predecessor$/;"	f	class:GSPAN::Projected
+read	graph.cpp	/^std::istream &Graph::read (std::istream &is, std::string * gName)$/;"	f	class:GSPAN::Graph
+read	gspan.cpp	/^std::istream &gSpan::read (std::istream &is,$/;"	f	class:GSPAN::gSpan
+read_SUBS_GRAPH	gspan.cpp	/^void gSpan::read_SUBS_GRAPH( std::string subs_file )$/;"	f	class:GSPAN::gSpan
+report	gspan.cpp	/^void gSpan::report (DFSCode & toReport,$/;"	f	class:GSPAN::gSpan
+report	gspan.cpp	/^void gSpan::report (Projected &projected, unsigned int sup) {$/;"	f	class:GSPAN::gSpan
+report_result	gspan.h	/^    bool report_result;         \/\/ lei subs$/;"	m	class:GSPAN::gSpan
+report_single	gspan.cpp	/^void gSpan::report_single (Graph &g,$/;"	f	class:GSPAN::gSpan
+resetCORK_Extensions	gspan.cpp	/^void gSpan::resetCORK_Extensions() {$/;"	f	class:GSPAN::gSpan
+rmpath	gspan.h	/^    RMPath rmpath;$/;"	m	struct:GSPAN::DFSCode
+run	gspan.cpp	/^void gSpan::run (std::istream &is, std::ostream &_os,$/;"	f	class:GSPAN::gSpan
+run_gSpan_CORK	gspan.cpp	/^std::vector<DFSCode> gSpan::run_gSpan_CORK (std::istream &is, std::ostream &_os,$/;"	f	class:GSPAN::gSpan
+run_intern	gspan.cpp	/^void gSpan::run_intern (void) {$/;"	f	class:GSPAN::gSpan
+selectedSubgraphs	gspan.h	/^    std::vector<DFSCode> selectedSubgraphs; \/\/ DFS codes of selected subgraphs$/;"	m	class:GSPAN::gSpan
+setInfoStream	gspan.cpp	/^void gSpan::setInfoStream(std::ostream &infoS) {$/;"	f	class:GSPAN::gSpan
+show	dfs.cpp	/^void DFSCodeTree::show(unsigned int indent)$/;"	f	class:GSPAN::DFSCodeTree
+singleVertex	gspan.h	/^    std::map<unsigned int, std::map<unsigned int, unsigned int> > singleVertex;$/;"	m	class:GSPAN::gSpan
+singleVertexLabel	gspan.h	/^    std::map<unsigned int, unsigned int> singleVertexLabel;$/;"	m	class:GSPAN::gSpan
+sorted_vertex	gspan.h	/^    std::vector<int> sorted_vertex; \/\/ lei sbus$/;"	m	class:GSPAN::History
+start_time	gspan.h	/^    clock_t mining_time, grow_edge_time, filter_sup_time, filter_dup_time, filter_subs_time, start_time; $/;"	m	class:GSPAN::gSpan
+support	gspan.cpp	/^unsigned int gSpan::support (Projected &projected) {$/;"	f	class:GSPAN::gSpan
+support_counts	gspan.cpp	/^std::map<unsigned int, unsigned int> gSpan::support_counts (Projected &projected) {$/;"	f	class:GSPAN::gSpan
+tested_subgraphs	gspan.h	/^    unsigned int tested_subgraphs; \/\/ counts the number of subgraphs tested in one iteration of CORK$/;"	m	class:GSPAN::gSpan
+to	gspan.h	/^    int to;$/;"	m	class:GSPAN::DFS
+to	gspan.h	/^    int to;$/;"	m	struct:GSPAN::Edge
+toGraph	dfs.cpp	/^bool DFSCode::toGraph (Graph &g) const$/;"	f	class:GSPAN::DFSCode
+tokenize	graph.cpp	/^void tokenize (const char *str, Iterator iterator)$/;"	f	namespace:GSPAN
+tolabel	gspan.h	/^    int tolabel;$/;"	m	class:GSPAN::DFS
+translateSupportCounts	gspan.cpp	/^std::map<unsigned int,unsigned int> gSpan::translateSupportCounts(std::map<unsigned int,unsigned int> const & _instances2classLabels) {$/;"	f	class:GSPAN::gSpan
+usage	gSpanCORK.cpp	/^void usage (void)$/;"	f
+verbose	gspan.h	/^    bool verbose;$/;"	m	class:GSPAN::gSpan
+vertex	gspan.h	/^    std::vector<int> vertex;$/;"	m	class:GSPAN::History
+vertex_iterator	gspan.h	/^    typedef std::vector<Vertex>::iterator vertex_iterator;$/;"	t	class:GSPAN::Graph
+vertex_labels	gspan.h	/^    igraph_vector_long_t vertex_labels;$/;"	m	struct:GSPAN::igraphGraph
+vertex_rank	gspan.h	/^    std::map<int, int> vertex_rank; \/\/ lei subs$/;"	m	class:GSPAN::History
+vertex_size	gspan.h	/^    unsigned int vertex_size () const {$/;"	f	class:GSPAN::Graph
+where	gspan.h	/^    unsigned int where; \/\/ traceback option:$/;"	m	class:GSPAN::gSpan
+winner_subgraphs	gspan.h	/^    unsigned int winner_subgraphs; \/\/ counts the number of subgraphs replacing the current best subgraph in one iteration of CORK$/;"	m	class:GSPAN::gSpan
+write	dfs.cpp	/^std::ostream &DFSCode::write (std::ostream &os)$/;"	f	class:GSPAN::DFSCode
+write	graph.cpp	/^std::ostream &Graph::write (std::ostream &os) const$/;"	f	class:GSPAN::Graph
+xml	gspan.h	/^    bool xml;  \/\/ display output as xml?$/;"	m	class:GSPAN::gSpan

@@ -1,0 +1,8 @@
+libigraph_la-s_cmp.lo: f2c/s_cmp.c /usr/include/stdc-predef.h f2c.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+f2c.h:
+
+../config.h:

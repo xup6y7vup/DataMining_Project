@@ -1,0 +1,28 @@
+libigraph_la-array.lo: array.c types.h error.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stddef.h igraph_pmt.h \
+ dqueue.h igraph_pmt_off.h vector.h matrix.h array.h stack.h heap.h \
+ array.pmt
+
+types.h:
+
+error.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stddef.h:
+
+igraph_pmt.h:
+
+dqueue.h:
+
+igraph_pmt_off.h:
+
+vector.h:
+
+matrix.h:
+
+array.h:
+
+stack.h:
+
+heap.h:
+
+array.pmt:

@@ -1,0 +1,5 @@
+libigraph_la-d_sign.lo: f2c/d_sign.c f2c.h ../config.h
+
+f2c.h:
+
+../config.h:

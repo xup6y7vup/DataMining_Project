@@ -1,0 +1,1079 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps
+END
+libigraph_la-attributes.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-attributes.Plo
+END
+libigraph_la-dtrexc.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dtrexc.Plo
+END
+libigraph_la-foreign.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign.Plo
+END
+libigraph_la-adjlist.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-adjlist.Plo
+END
+libigraph_la-ddot.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-ddot.Plo
+END
+libigraph_la-cocitation.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-cocitation.Plo
+END
+libigraph_la-games.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-games.Plo
+END
+libigraph_la-igraph_psumtree.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_psumtree.Plo
+END
+libigraph_la-dlaexc.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaexc.Plo
+END
+libigraph_la-cores.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-cores.Plo
+END
+libigraph_la-pottsmodel_2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-pottsmodel_2.Plo
+END
+libigraph_la-dlaev2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaev2.Plo
+END
+libigraph_la-operators.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-operators.Plo
+END
+libigraph_la-dneupd.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dneupd.Plo
+END
+libigraph_la-clustertool.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-clustertool.Plo
+END
+libigraph_la-dlarfx.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlarfx.Plo
+END
+libigraph_la-foreign-graphml.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-graphml.Plo
+END
+libigraph_la-dnaitr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnaitr.Plo
+END
+libigraph_la-dseupd.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dseupd.Plo
+END
+libigraph_la-dgeqr2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dgeqr2.Plo
+END
+libigraph_la-dlarnv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlarnv.Plo
+END
+libigraph_la-dsaitr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsaitr.Plo
+END
+libigraph_la-vector_ptr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-vector_ptr.Plo
+END
+libigraph_la-dlange.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlange.Plo
+END
+libigraph_la-revolver_ml_cit.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-revolver_ml_cit.Plo
+END
+libigraph_la-gengraph_random.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_random.Plo
+END
+libigraph_la-dtrsen.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dtrsen.Plo
+END
+libigraph_la-foreign-gml-parser.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-gml-parser.Plo
+END
+libigraph_la-progress.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-progress.Plo
+END
+libdlamch_la-dlamch.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libdlamch_la-dlamch.Plo
+END
+libigraph_la-bliss_heap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_heap.Plo
+END
+libigraph_la-dlaset.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaset.Plo
+END
+libigraph_la-dsortr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsortr.Plo
+END
+libigraph_la-array.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-array.Plo
+END
+libigraph_la-dcopy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dcopy.Plo
+END
+libigraph_la-bfgs.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bfgs.Plo
+END
+libigraph_la-walktrap_heap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-walktrap_heap.Plo
+END
+libigraph_la-structural_properties.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-structural_properties.Plo
+END
+libigraph_la-igraph_hashtable.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_hashtable.Plo
+END
+libigraph_la-igraph_strvector.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_strvector.Plo
+END
+libigraph_la-dlanst.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlanst.Plo
+END
+libigraph_la-daxpy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-daxpy.Plo
+END
+libigraph_la-components.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-components.Plo
+END
+libigraph_la-dscal.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dscal.Plo
+END
+libigraph_la-dlarf.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlarf.Plo
+END
+libigraph_la-spectral_properties.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-spectral_properties.Plo
+END
+libigraph_la-gengraph_graph_molloy_optimized.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_graph_molloy_optimized.Plo
+END
+libigraph_la-dlapy2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlapy2.Plo
+END
+libigraph_la-s_copy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-s_copy.Plo
+END
+libigraph_la-foreign-pajek-lexer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-pajek-lexer.Plo
+END
+libigraph_la-foreign-lgl-parser.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-lgl-parser.Plo
+END
+libigraph_la-s_cmp.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-s_cmp.Plo
+END
+libigraph_la-bliss_eqrefhash.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_eqrefhash.Plo
+END
+libigraph_la-dstats.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dstats.Plo
+END
+libigraph_la-vector.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-vector.Plo
+END
+libigraph_la-etime_.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-etime_.Plo
+END
+libigraph_la-basic_query.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-basic_query.Plo
+END
+libigraph_la-flow.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-flow.Plo
+END
+libigraph_la-spmatrix.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-spmatrix.Plo
+END
+libigraph_la-i_dnnt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-i_dnnt.Plo
+END
+libigraph_la-pow_dd.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-pow_dd.Plo
+END
+libigraph_la-dlaln2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaln2.Plo
+END
+libigraph_la-layout.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-layout.Plo
+END
+libigraph_la-dlartg.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlartg.Plo
+END
+libigraph_la-dswap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dswap.Plo
+END
+libigraph_la-centrality.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-centrality.Plo
+END
+libigraph_la-visitors.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-visitors.Plo
+END
+libigraph_la-foreign-gml-lexer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-gml-lexer.Plo
+END
+libigraph_la-dnapps.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnapps.Plo
+END
+libigraph_la-dlasrt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlasrt.Plo
+END
+libigraph_la-dnaup2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnaup2.Plo
+END
+libigraph_la-dsapps.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsapps.Plo
+END
+libigraph_la-bliss_utils.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_utils.Plo
+END
+libigraph_la-igraph_trie.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_trie.Plo
+END
+libigraph_la-dneigh.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dneigh.Plo
+END
+libigraph_la-dsaup2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsaup2.Plo
+END
+libigraph_la-foreign-ncol-lexer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-ncol-lexer.Plo
+END
+libigraph_la-dlacon.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlacon.Plo
+END
+libigraph_la-dladiv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dladiv.Plo
+END
+libigraph_la-atlas.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-atlas.Plo
+END
+libigraph_la-zeroin.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-zeroin.Plo
+END
+libigraph_la-dlahqr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlahqr.Plo
+END
+libigraph_la-second.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-second.Plo
+END
+libigraph_la-gengraph_powerlaw.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_powerlaw.Plo
+END
+libigraph_la-foreign-pajek-parser.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-pajek-parser.Plo
+END
+libigraph_la-bliss.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss.Plo
+END
+libigraph_la-heap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-heap.Plo
+END
+libigraph_la-dseigt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dseigt.Plo
+END
+libigraph_la-NetRoutines.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-NetRoutines.Plo
+END
+libigraph_la-igraph_grid.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_grid.Plo
+END
+libigraph_la-other.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-other.Plo
+END
+libigraph_la-evolver_cit.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-evolver_cit.Plo
+END
+libigraph_la-dnrm2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnrm2.Plo
+END
+libigraph_la-dtrmm.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dtrmm.Plo
+END
+libigraph_la-dlassq.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlassq.Plo
+END
+libigraph_la-error.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-error.Plo
+END
+libigraph_la-igraph_buckets.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_buckets.Plo
+END
+libigraph_la-interrupt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-interrupt.Plo
+END
+libigraph_la-dlaruv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaruv.Plo
+END
+libigraph_la-bliss_graph.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_graph.Plo
+END
+libigraph_la-gengraph_box_list.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_box_list.Plo
+END
+libigraph_la-dlasy2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlasy2.Plo
+END
+libigraph_la-gengraph_degree_sequence.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_degree_sequence.Plo
+END
+libigraph_la-dstqrb.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dstqrb.Plo
+END
+libigraph_la-dlarfg.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlarfg.Plo
+END
+libigraph_la-dvout.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dvout.Plo
+END
+libigraph_la-type_indexededgelist.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-type_indexededgelist.Plo
+END
+libigraph_la-drl_graph.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-drl_graph.Plo
+END
+libigraph_la-dorm2r.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dorm2r.Plo
+END
+libigraph_la-ivout.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-ivout.Plo
+END
+libigraph_la-igraph_heap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_heap.Plo
+END
+libigraph_la-drot.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-drot.Plo
+END
+libigraph_la-forestfire.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-forestfire.Plo
+END
+libigraph_la-memory.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-memory.Plo
+END
+libigraph_la-dasum.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dasum.Plo
+END
+libigraph_la-dnaupd.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnaupd.Plo
+END
+libigraph_la-iterators.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-iterators.Plo
+END
+libigraph_la-dlacpy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlacpy.Plo
+END
+libigraph_la-dsaupd.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsaupd.Plo
+END
+libigraph_la-foreign-lgl-lexer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-lgl-lexer.Plo
+END
+libigraph_la-community.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-community.Plo
+END
+libigraph_la-dnconv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dnconv.Plo
+END
+libigraph_la-dmout.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dmout.Plo
+END
+libigraph_la-dsconv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsconv.Plo
+END
+libigraph_la-dsortc.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsortc.Plo
+END
+libigraph_la-motifs.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-motifs.Plo
+END
+libigraph_la-fast_community.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-fast_community.Plo
+END
+libigraph_la-arpack.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-arpack.Plo
+END
+libigraph_la-d_sign.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-d_sign.Plo
+END
+libigraph_la-NetDataTypes.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-NetDataTypes.Plo
+END
+libigraph_la-cliques.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-cliques.Plo
+END
+libigraph_la-walktrap_graph.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-walktrap_graph.Plo
+END
+libigraph_la-foreign-ncol-parser.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-foreign-ncol-parser.Plo
+END
+libigraph_la-xerbla.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-xerbla.Plo
+END
+libigraph_la-drl_layout.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-drl_layout.Plo
+END
+libigraph_la-dtrsyl.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dtrsyl.Plo
+END
+libigraph_la-conversion.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-conversion.Plo
+END
+libigraph_la-igraph_set.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_set.Plo
+END
+libigraph_la-dtrevc.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dtrevc.Plo
+END
+libigraph_la-dqueue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dqueue.Plo
+END
+libigraph_la-math.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-math.Plo
+END
+libigraph_la-dstatn.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dstatn.Plo
+END
+libigraph_la-gml_tree.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gml_tree.Plo
+END
+libigraph_la-igraph_stack.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-igraph_stack.Plo
+END
+libigraph_la-lsame.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-lsame.Plo
+END
+libigraph_la-revolver_grow.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-revolver_grow.Plo
+END
+libigraph_la-dgemv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dgemv.Plo
+END
+libigraph_la-idamax.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-idamax.Plo
+END
+libigraph_la-matrix.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-matrix.Plo
+END
+libigraph_la-bliss_partition.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_partition.Plo
+END
+libigraph_la-dlaqrb.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlaqrb.Plo
+END
+libigraph_la-d_lg10.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-d_lg10.Plo
+END
+libigraph_la-dlabad.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlabad.Plo
+END
+libigraph_la-dlanhs.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlanhs.Plo
+END
+libigraph_la-drl_parse.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-drl_parse.Plo
+END
+libigraph_la-bliss_timer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_timer.Plo
+END
+libigraph_la-topology.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-topology.Plo
+END
+libigraph_la-random.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-random.Plo
+END
+libigraph_la-pow_di.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-pow_di.Plo
+END
+libigraph_la-dngets.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dngets.Plo
+END
+libigraph_la-DensityGrid.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-DensityGrid.Plo
+END
+libigraph_la-walktrap.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-walktrap.Plo
+END
+libigraph_la-dlanv2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlanv2.Plo
+END
+libigraph_la-dlae2.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlae2.Plo
+END
+libigraph_la-measure_dynamics.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-measure_dynamics.Plo
+END
+libigraph_la-cattributes.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-cattributes.Plo
+END
+libigraph_la-dsgets.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsgets.Plo
+END
+libigraph_la-dgetv0.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dgetv0.Plo
+END
+libigraph_la-structure_generators.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-structure_generators.Plo
+END
+libigraph_la-gengraph_mr-connected.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_mr-connected.Plo
+END
+libigraph_la-walktrap_communities.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-walktrap_communities.Plo
+END
+libigraph_la-dsteqr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsteqr.Plo
+END
+libigraph_la-dlascl.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlascl.Plo
+END
+libigraph_la-revolver_cit.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-revolver_cit.Plo
+END
+libigraph_la-dsesrt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dsesrt.Plo
+END
+libigraph_la-dlasr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dlasr.Plo
+END
+libigraph_la-gengraph_graph_molloy_hash.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-gengraph_graph_molloy_hash.Plo
+END
+libigraph_la-bliss_orbit.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-bliss_orbit.Plo
+END
+libigraph_la-dger.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/src/.deps/libigraph_la-dger.Plo
+END

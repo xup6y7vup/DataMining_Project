@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian
+END
+control.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/control.in
+END
+libigraph-dev.info
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/libigraph-dev.info
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/Makefile.am
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/rules
+END
+libigraph-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/libigraph-dev.examples
+END
+libigraph.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/libigraph.manpages
+END
+changelog.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/changelog.in
+END
+copyright.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/copyright.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/Makefile
+END
+prepare
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/prepare
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/44/trunk/gspancpp/igraph/igraph-0.5.1_support_colored_isomorphism/debian/Makefile.in
+END

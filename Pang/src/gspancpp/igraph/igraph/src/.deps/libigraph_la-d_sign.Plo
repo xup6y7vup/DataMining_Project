@@ -1,0 +1,8 @@
+libigraph_la-d_sign.lo: f2c/d_sign.c /usr/include/stdc-predef.h f2c.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+f2c.h:
+
+../config.h:

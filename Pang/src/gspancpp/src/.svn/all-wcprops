@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/114/trunk/gspancpp/src
+END
+gSpanCORK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/112/trunk/gspancpp/src/gSpanCORK.cpp
+END
+gspan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/112/trunk/gspancpp/src/gspan.cpp
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/112/trunk/gspancpp/src/misc.cpp
+END
+dfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/112/trunk/gspancpp/src/dfs.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/114/trunk/gspancpp/src/Makefile
+END
+gspan.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/112/trunk/gspancpp/src/gspan.h
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/65/trunk/gspancpp/src/tags
+END
+bkpts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/gspancpp/src/bkpts.txt
+END
+cscope.out
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/30/trunk/gspancpp/src/cscope.out
+END
+run.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/65/trunk/gspancpp/src/run.txt
+END
+graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/112/trunk/gspancpp/src/graph.cpp
+END
