@@ -21,7 +21,10 @@ fi
 input="../data/${dataset}/${dataset}_graph.txt"
 outputGSPAN="../data/${dataset}/${dataset}_pattern.txt"
 outputCGSPAN="../data/${dataset}/${dataset}_CG.txt"
+outputCGSPANSupport="../data/${dataset}/${dataset}_CGSupport.txt"
+outputTKG="../data/${dataset}/${dataset}_TKG.txt"
 
-# 使用 /mnt/c/... 路徑格式
-"/mnt/c/Users/Lockdream/miniconda3/envs/myenv3715/Library/bin/java.exe" -Xmx8192m -jar spmf.jar run GSPAN "$input" "$outputGSPAN" 0.9 8 true false true 
-# "/mnt/c/Users/Lockdream/miniconda3/envs/myenv3715/Library/bin/java.exe" -Xmx8192m -jar spmf.jar run CGSPAN "$input" "$outputCGSPAN" 0.9 8 true false true
+# 使用 /mnt/c/... 路徑格式，此處要自己調整java.exe的路徑，可以把生成的txt檔案貼到_patter.txt底下進行操作
+"/mnt/c/Users/pinyen/anaconda3/envs/test_env/Library/bin/java.exe" -Xmx8192m -jar spmf.jar run GSPAN "$input" "$outputCGSPAN" 0.9 8 true false true 
+"/mnt/c/Users/pinyen/anaconda3/envs/test_env/Library/bin/java.exe" -Xmx8192m -jar spmf.jar run CGSPANSupport "$input" "$outputCGSPANSupport" 0.9 8 true false true
+"/mnt/c/Users/pinyen/anaconda3/envs/test_env/Library/bin/java.exe" -Xmx8192m -jar spmf.jar run TKG "$input" "$outputTKG" 4 8 true false true
